@@ -45,7 +45,7 @@ nav ul {
   font-weight: 500;
 }
 nav ul li {
-  padding-left: 3em;
+  margin-left: 5em;
   text-decoration: none;
   list-style-type: none;
 }
@@ -114,7 +114,6 @@ div.right-main div.author {
   bottom: 0;
   margin-bottom: -71px;
 }
-
 div.right-main div.author div.top {
   display: flex;
   margin-bottom: 0.5em;
@@ -197,14 +196,14 @@ footer a:hover {
   .show {
     display: flex;
   }
-  header nav ul.nav-links {
+  nav ul {
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
     height: 30vh;
   }
   nav ul li {
-    padding-left: 0;
+    margin-left: 0;
   }
   main {
     padding: 3em 0;
