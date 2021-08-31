@@ -53,7 +53,7 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Acknowledgements
 
-Used [media queries](https://www.w3schools.com/css/css3_mediaqueries.asp) to achieve responsiveness
+I used [media queries](https://www.w3schools.com/css/css3_mediaqueries.asp) to achieve responsiveness
 
 ## Contact
 
